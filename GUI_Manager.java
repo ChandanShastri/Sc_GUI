@@ -37,7 +37,7 @@ public class GUI_Manager extends JFrame {
 			{   
 				if(!clrscr)
 				{
-					B.setText("Good to go");
+					B.setText("Good  go");
 					T.setText(null);
 					clrscr=true;
 					T.setBackground(Color.pink);
