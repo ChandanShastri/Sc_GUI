@@ -1,2 +1,2 @@
 # Sc_GUI_Java
-A Java GUI for Applications
+A Java GUI for Applications.
